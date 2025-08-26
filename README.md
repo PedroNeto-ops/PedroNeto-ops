@@ -42,11 +42,11 @@ Atualmente, estou cursando o ensino médio no **Instituto Federal de Maranguape*
 ---
 
 <div align="center">
-
-## 🏆 Troféus
-
-<img src="https://github-profile-trophy.vercel.app/?username=PedroNeto-ops&theme=onedark&no-bg=true&row=2&column=3&title=MultiLanguage,Commit,Repositories,Followers,Stars&margin-w=15&margin-h=15"/>
-
+  
+  ## 🏆 Troféus 
+  
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=PedroNeto-ops&theme=tokyonight&no-bg=true&row=2&column=3" alt="Troféus"/>
+  
 </div>
 
 ---
