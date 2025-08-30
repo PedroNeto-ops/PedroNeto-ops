@@ -19,7 +19,7 @@ Atualmente, estou cursando o ensino médio no **Instituto Federal de Maranguape*
 
 | Backend | Frontend |
 |--------|----------|
-| <img src="https://skillicons.dev/icons?i=py,java" height="40" /> | <img src="https://skillicons.dev/icons?i=html,css" height="40" /> |
+| <img src="https://skillicons.dev/icons?i=py,java" height="40" /> | <img src="https://skillicons.dev/icons?i=html" height="40" /> |
 
 | Banco de Dados | IDEs |
 |----------------|------|
