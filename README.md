@@ -12,7 +12,7 @@ Atualmente, estou cursando o ensino médio no **Instituto Federal de Maranguape*
 </div>
 
 ---
-
+ 
 <div align="center">
 
 ## 💻 Tecnologias e Ferramentas
